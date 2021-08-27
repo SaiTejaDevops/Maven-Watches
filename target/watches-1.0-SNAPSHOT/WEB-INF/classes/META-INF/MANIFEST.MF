@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-Description: watches war
+Bundle-SymbolicName: watches
+Bundle-Name: watches
+Bundle-Version: 1.0.0.SNAPSHOT
+Built-By: Teja
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1630067076203
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-1.15.0
+Build-Jdk: 1.8.0_281
+
